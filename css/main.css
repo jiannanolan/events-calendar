@@ -11,8 +11,12 @@ tr {
   min-height: 20em;
 }
 
+td {
+  height: 175px;
+}
+
 th {
-  background-color: #ccc;
+  border-color: #ccc;
 }
 
 .launch {
