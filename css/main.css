@@ -1,0 +1,65 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table {
+  max-width: 75em;
+  border-color: black;
+}
+
+tr {
+  min-height: 20em;
+}
+
+th {
+  background-color: #ccc;
+}
+
+.launch {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.india {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.explore {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.kosmos {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.remembrance {
+  color: #991919;
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+}
+
+.green {
+  color: #51603f;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+}
+
+.blue {
+  color: #38448e;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+}
